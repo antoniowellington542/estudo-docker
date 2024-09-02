@@ -1,0 +1,16 @@
+# Code editor files
+.idea
+
+# Built code
+dist
+
+# Libs
+node_modules
+
+# Environmental variables
+.env
+
+# Resources
+tmp
+resources/postgresql
+resources/mongo
